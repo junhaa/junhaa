@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=junhaa)](https://solved.ac/junhaa)
-
+[![Solved.ac 프로필](http://mazandi.herokuapp.com/api?handle=junhaa)](https://solved.ac/junhaa/)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=junhaa&bg_color=FFFFFF&color=5FC397&title_color=5FC397&line=5FC397&point=336951&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junhaa&show_icons=true&theme=vue)
