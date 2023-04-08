@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=5FC397&height=240&section=header&text=Hi,%20I'm%20Junha%20(●’◡’●)ﾉ&fontSize=36&animation=twinkling&fontAlignY=36)
+![header](https://capsule-render.vercel.app/api?type=waving&color=7396CF&height=240&section=header&text=Hi,%20I'm%20Junha%20(●’◡’●)ﾉ&fontSize=36&animation=twinkling&fontAlignY=36)
 
 ### ✔ Skills
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=junhaa)](https://solved.ac/junhaa)
 [![Solved.ac 프로필](http://mazandi.herokuapp.com/api?handle=junhaa)](https://solved.ac/junhaa/)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=junhaa&bg_color=FFFFFF&color=5FC397&title_color=5FC397&line=5FC397&point=336951&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=junhaa&bg_color=FFFFFF&color=7396CF&title_color=7396CF&line=7396CF&point=50688F&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junhaa&show_icons=true&theme=vue)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junhaa&show_icons=true&title_color=7396CF&text_color=7396CF&icon_color=7396CF&hide_border=true&bg_color=FFFFFF)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junhaa)](https://github.com/anuraghazra/github-readme-stats) -->
 
