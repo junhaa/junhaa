@@ -1,4 +1,4 @@
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=240&section=header&text=Hi,%20I'm%20Junha%20Park%20(●’◡’●)ﾉ&fontSize=36&animation=fadeIn&fontAlignY=36)
 <!--
 **junhaa/junhaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
