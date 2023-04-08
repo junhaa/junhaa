@@ -1,4 +1,4 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=Junhaa's%20GIT&fontSize=40)
 
 <!--
 **junhaa/junhaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
