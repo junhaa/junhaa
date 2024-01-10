@@ -21,7 +21,7 @@
 
 <br>
 
-<!--
+
 **junhaa/junhaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 ### ✔ BOJ / Solved.ac
 - BOJ : [junhaa](https://www.acmicpc.net/user/junhaa)
 - Solved.ac : [junhaa](https://solved.ac/profile/junhaa)
