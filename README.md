@@ -26,7 +26,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=junhaa)](https://solved.ac/junhaa)
 [![Solved.ac 프로필](http://mazandi.herokuapp.com/api?handle=junhaa)](https://solved.ac/junhaa/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junhaa)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junhaa)](https://github.com/anuraghazra/github-readme-stats)-->
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjunhaa&count_bg=%23535353&title_bg=%23B6B6B6&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
