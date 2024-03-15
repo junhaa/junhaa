@@ -22,8 +22,6 @@
 
 <br>
 ✔ BOJ / Solved.ac
-- BOJ : [junhaa](https://www.acmicpc.net/user/junhaa)
-- Solved.ac : [junhaa](https://solved.ac/profile/junhaa)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=junhaa)](https://solved.ac/junhaa)
