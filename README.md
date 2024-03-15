@@ -1,5 +1,5 @@
 
-###![header](https://capsule-render.vercel.app/api?type=waving&color=7396CF&height=240&section=header&text=Hi,%20I'm%20Junha%20(●’◡’●)ﾉ&fontSize=36&animation=twinkling&fontAlignY=36)
+![header](https://capsule-render.vercel.app/api?type=waving&color=7396CF&height=240&section=header&text=Hi,%20I'm%20Junha%20(●’◡’●)ﾉ&fontSize=36&animation=twinkling&fontAlignY=36)
 
  ✔ Skills
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -20,21 +20,6 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 
 <br>
-
-
-**junhaa/junhaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
 ### ✔ BOJ / Solved.ac
 - BOJ : [junhaa](https://www.acmicpc.net/user/junhaa)
 - Solved.ac : [junhaa](https://solved.ac/profile/junhaa)
