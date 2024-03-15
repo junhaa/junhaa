@@ -2,6 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=7396CF&height=240&section=header&text=Hi,%20I'm%20Junha%20(●’◡’●)ﾉ&fontSize=36&animation=twinkling&fontAlignY=36)
 
  ✔ Skills
+ <br>
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -20,7 +21,7 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 
 <br>
-### ✔ BOJ / Solved.ac
+✔ BOJ / Solved.ac
 - BOJ : [junhaa](https://www.acmicpc.net/user/junhaa)
 - Solved.ac : [junhaa](https://solved.ac/profile/junhaa)
 
